@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aydosabdirazakov
 - 👀 I’m interested in freelancer
-- 🌱 I’m currently learning html css jss grid flex
+- 🌱 I’m currently learning React, Jss, Html, Css, Grid, Bem, Ts, Flex, 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me telegram number +998933676127
 
